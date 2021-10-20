@@ -2,7 +2,7 @@
 // BINANCE web socket BNB_
 // asset account
 //
-// @2020 Utomato_crypto
+// @2021 Utomato_crypto
 //
 
 var WebSocketClient = require('websocket').client;
