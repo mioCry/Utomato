@@ -1,8 +1,8 @@
 //
 // assetAccount_model
 // 
-// @2021 utomato_crypto
-// v BNB_
+// @2021 utomato_crypto_binance_websocket
+// 
 
 var mongoose = require('mongoose');
 var Schema = mongoose.Schema;
